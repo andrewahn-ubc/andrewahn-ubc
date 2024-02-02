@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 Hi! I'm Andrew, a 2nd-year Computer Science student at UBC Vancouver. 
 
 Check out my personal website [here](http://www.andrewahn-ubc.com/) to read more about me!
