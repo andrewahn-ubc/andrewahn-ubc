@@ -1,6 +1,5 @@
 ## 💫 About Me:
 Hi! I'm Andrew, a CS student at UBC Vancouver.
-Check out my personal website [here](http://www.andrewahn-ubc.com/) to read more about me!
 
 ## 💪 What I'm working on:
 - Machine learning recommender systems
