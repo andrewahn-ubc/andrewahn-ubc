@@ -1,6 +1,7 @@
 ## 💫 About Me:
 Hi! I'm Andrew, a CS student at UBC Vancouver. I'm happy you're here! Hope you enjoy checking out my programming journery. BUT if you see any poor programming practices in my code, no you didn't 😄
 <br>
+<br>
 Check out my personal website [here](http://www.andrewahn-ubc.com/) to read more about me!
 
 ## 💪 What I'm working on:
