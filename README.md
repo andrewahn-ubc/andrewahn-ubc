@@ -2,9 +2,7 @@
 Hi! I'm Andrew, a CS student at UBC Vancouver.
 
 ### 💪 What I'm working on:
-- Machine learning recommender systems
 - Full-stack development using MERN
-- Playing around with CSS
 
 ### 📩 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/andrewahn-ubc/
