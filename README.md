@@ -2,7 +2,7 @@
 Hi! I'm Andrew, a CS student at UBC Vancouver.
 
 ### 💪 What I'm working on:
-- Full-stack development using MERN
+- Full-stack development with MERN
 
 ### 📩 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/andrewahn-ubc/
