@@ -1,5 +1,5 @@
 ### Hi!
-I'm Andrew, a CS student at UBC Vancouver.
+I'm Andrew, a CS + Math student at UBC Vancouver.
 
 ### If you want to chat with me:
 - LinkedIn: https://www.linkedin.com/in/andrewahn-ubc/
