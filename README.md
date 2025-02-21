@@ -1,7 +1,7 @@
 ### Hi!
 I'm Andrew, a CS + Math student at UBC Vancouver.
 
-### If you want to chat with me:
+### Git to know me:
 - LinkedIn: https://www.linkedin.com/in/andrewahn-ubc/
 - Email: andrewahn21@gmail.com
 
