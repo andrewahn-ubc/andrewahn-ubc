@@ -1,5 +1,5 @@
-### Hi!
-I'm Andrew, a CS + Math student at UBC Vancouver.
+### Hey
+I'm Andrew, a CS + Math student at UBC Vancouver. I like machine learning and full-development
 
 ### Git to know me:
 - LinkedIn: https://www.linkedin.com/in/andrewahn-ubc/
