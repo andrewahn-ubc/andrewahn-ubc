@@ -1,5 +1,5 @@
 ### Hey
-I'm Andrew, a CS + Math student at UBC Vancouver. I'm exploring machine learning and game development at the moment. Outside of school and coding, my hobbies include 
+I'm Andrew, a CS + Math student at UBC Vancouver. I'm currently exploring machine learning and game development. Outside of school and coding, my hobbies include 
 
 ### Git to know me:
 - LinkedIn: https://www.linkedin.com/in/andrewahn-ubc/
