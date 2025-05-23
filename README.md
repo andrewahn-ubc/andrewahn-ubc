@@ -1,5 +1,5 @@
 ### Welcome!
-My name is Andrew and I'm studying computer science and math at UBC Vancouver. I'm currently learning about reinforcement learning! Outside of school and coding, my hobbies include 
+My name is Andrew and I'm studying computer science and math at UBC Vancouver. I'm currently self-studying reinforcement learning! Outside of school and coding, my hobbies include 
 
 ### Git to know me:
 - LinkedIn: https://www.linkedin.com/in/andrewahn-ubc/
